@@ -1,0 +1,125 @@
+Source,Target,Weight,Type
+[AC]AvengersIW,[CO]BackToTheFuture,5,undirected
+[AC]AvengersIW,[CO]ToyStory,3,undirected
+[AC]AvengersIW,[DR]TheGodfather,2,undirected
+[AC]AvengersIW,[FA]HarryPotterSS,5,undirected
+[AC]AvengersIW,[PS]Inception,4,undirected
+[AC]AvengersIW,IntoTheWhite,2,undirected
+[AC]IndianaJones1981,[AC]StarWars1977,1,undirected
+[AC]IndianaJones1981,[DR]Titanic,1,undirected
+[AC]IndianaJones1981,[FA]HarryPotterSS,2,undirected
+[AC]IndianaJones1981,IntoTheWhite,6,undirected
+[AC]IndianaJones1981,Stalingrad,3,undirected
+[AC]StarWars1977,[AC]IndianaJones1981,1,undirected
+[AC]StarWars1977,[DR]Titanic,2,undirected
+[AC]StarWars1977,[FA]HarryPotterSS,3,undirected
+[AC]StarWars1977,[FA]PiratesCarribbean,3,undirected
+[AC]StarWars1977,FullMetalJacket,2,undirected
+[AC]StarWars1977,TheLongestDay,1,undirected
+[CO]BackToTheFuture,[AC]AvengersIW,5,undirected
+[CO]BackToTheFuture,[CO]ToyStory,1,undirected
+[CO]BackToTheFuture,[DR]TheGodfather,5,undirected
+[CO]BackToTheFuture,[FA]HarryPotterSS,1,undirected
+[CO]BackToTheFuture,[PS]TheShining,3,undirected
+[CO]MontyPython,[FA]HarryPotterSS,1,undirected
+[CO]MontyPython,[FA]LOTR_01,2,undirected
+[CO]MontyPython,[FA]PiratesCarribbean,5,undirected
+[CO]ToyStory,[AC]AvengersIW,3,undirected
+[CO]ToyStory,[CO]BackToTheFuture,1,undirected
+[CO]ToyStory,[DR]Titanic,5,undirected
+[CO]ToyStory,BlackHawkDown,1,undirected
+[DR]Gladiator,[FA]LOTR_01,2,undirected
+[DR]Gladiator,[FA]LOTR_02,1,undirected
+[DR]Gladiator,[FA]LOTR_03,3,undirected
+[DR]TheGodfather,[AC]AvengersIW,2,undirected
+[DR]TheGodfather,[CO]BackToTheFuture,5,undirected
+[DR]TheGodfather,[FA]PiratesCarribbean,1,undirected
+[DR]TheGodfather,[PS]TheShining,2,undirected
+[DR]Titanic,[AC]IndianaJones1981,1,undirected
+[DR]Titanic,[AC]StarWars1977,2,undirected
+[DR]Titanic,[CO]ToyStory,5,undirected
+[FA]HarryPotterSS,[AC]AvengersIW,5,undirected
+[FA]HarryPotterSS,[AC]IndianaJones1981,2,undirected
+[FA]HarryPotterSS,[AC]StarWars1977,3,undirected
+[FA]HarryPotterSS,[CO]BackToTheFuture,1,undirected
+[FA]HarryPotterSS,[CO]MontyPython,1,undirected
+[FA]HarryPotterSS,[FA]PiratesCarribbean,4,undirected
+[FA]HarryPotterSS,[PS]Inception,2,undirected
+[FA]LOTR_01,[CO]MontyPython,2,undirected
+[FA]LOTR_01,[DR]Gladiator,2,undirected
+[FA]LOTR_01,[FA]LOTR_02,4,undirected
+[FA]LOTR_01,[FA]LOTR_03,5,undirected
+[FA]LOTR_01,[FA]PiratesCarribbean,4,undirected
+[FA]LOTR_02,[DR]Gladiator,1,undirected
+[FA]LOTR_02,[FA]LOTR_01,4,undirected
+[FA]LOTR_02,[FA]LOTR_03,6,undirected
+[FA]LOTR_02,[FA]PiratesCarribbean,1,undirected
+[FA]LOTR_03,[DR]Gladiator,3,undirected
+[FA]LOTR_03,[FA]LOTR_01,5,undirected
+[FA]LOTR_03,[FA]LOTR_02,6,undirected
+[FA]LOTR_03,[FA]PiratesCarribbean,1,undirected
+[FA]LOTR_03,Stalingrad,1,undirected
+[FA]PiratesCarribbean,[AC]StarWars1977,3,undirected
+[FA]PiratesCarribbean,[CO]MontyPython,5,undirected
+[FA]PiratesCarribbean,[DR]TheGodfather,1,undirected
+[FA]PiratesCarribbean,[FA]HarryPotterSS,4,undirected
+[FA]PiratesCarribbean,[FA]LOTR_01,4,undirected
+[FA]PiratesCarribbean,[FA]LOTR_02,1,undirected
+[FA]PiratesCarribbean,[FA]LOTR_03,1,undirected
+[PS]Inception,[AC]AvengersIW,4,undirected
+[PS]Inception,[FA]HarryPotterSS,2,undirected
+[PS]Inception,IntoTheWhite,2,undirected
+[PS]TheShining,[CO]BackToTheFuture,3,undirected
+[PS]TheShining,[DR]TheGodfather,2,undirected
+[PS]TheShining,IntoTheWhite,1,undirected
+[PS]TheThing,BoB -S_Bastogne,2,undirected
+[PS]TheThing,pacific S_Basilone,1,undirected
+[PS]TheThing,SavingPrivateRyan,3,undirected
+BlackHawkDown,[CO]ToyStory,1,undirected
+BlackHawkDown,pacific S_Basilone,3,undirected
+BlackHawkDown,pacific S_Peleliu,1,undirected
+BlackHawkDown,TheLongestDay,2,undirected
+BlackHawkDown,Warfare,3,undirected
+BoB -S_Bastogne,[PS]TheThing,2,undirected
+BoB -S_Bastogne,BoB -S_Holland,3,undirected
+BoB -S_Bastogne,BoB -S_Normandy,4,undirected
+BoB -S_Bastogne,SavingPrivateRyan,6,undirected
+BoB -S_Holland,BoB -S_Bastogne,3,undirected
+BoB -S_Holland,BoB -S_Normandy,6,undirected
+BoB -S_Holland,pacific S_Basilone,2,undirected
+BoB -S_Normandy,BoB -S_Bastogne,4,undirected
+BoB -S_Normandy,BoB -S_Holland,6,undirected
+BoB -S_Normandy,SavingPrivateRyan,2,undirected
+FullMetalJacket,[AC]StarWars1977,2,undirected
+FullMetalJacket,SavingPrivateRyan,4,undirected
+FullMetalJacket,Stalingrad,2,undirected
+FullMetalJacket,TheLongestDay,6,undirected
+IntoTheWhite,[AC]AvengersIW,2,undirected
+IntoTheWhite,[AC]IndianaJones1981,6,undirected
+IntoTheWhite,[PS]Inception,2,undirected
+IntoTheWhite,[PS]TheShining,1,undirected
+pacific S_Basilone,[PS]TheThing,1,undirected
+pacific S_Basilone,BlackHawkDown,3,undirected
+pacific S_Basilone,BoB -S_Holland,2,undirected
+pacific S_Basilone,pacific S_Peleliu,6,undirected
+pacific S_Basilone,TheLongestDay,4,undirected
+pacific S_Basilone,Warfare,2,undirected
+pacific S_Peleliu,BlackHawkDown,1,undirected
+pacific S_Peleliu,pacific S_Basilone,6,undirected
+pacific S_Peleliu,SavingPrivateRyan,2,undirected
+SavingPrivateRyan,[PS]TheThing,3,undirected
+SavingPrivateRyan,BoB -S_Bastogne,6,undirected
+SavingPrivateRyan,BoB -S_Normandy,2,undirected
+SavingPrivateRyan,FullMetalJacket,4,undirected
+SavingPrivateRyan,pacific S_Peleliu,2,undirected
+Stalingrad,[AC]IndianaJones1981,3,undirected
+Stalingrad,[FA]LOTR_03,1,undirected
+Stalingrad,FullMetalJacket,2,undirected
+TheLongestDay,[AC]StarWars1977,1,undirected
+TheLongestDay,BlackHawkDown,2,undirected
+TheLongestDay,FullMetalJacket,6,undirected
+TheLongestDay,pacific S_Basilone,4,undirected
+TheLongestDay,Warfare,1,undirected
+Warfare,BlackHawkDown,3,undirected
+Warfare,pacific S_Basilone,2,undirected
+Warfare,TheLongestDay,1,undirected
