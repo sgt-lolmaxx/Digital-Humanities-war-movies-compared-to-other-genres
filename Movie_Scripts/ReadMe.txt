@@ -1,5 +1,5 @@
 The scripts of war movies had their title unchanged.
-The scripts of Band of Brothers and The Pacific, were 2 scripts were merged into one, have the prefix "S_".
+The scripts of Band of Brothers and The Pacific, where 2 scripts were merged into one, have the prefix "S_".
 --> for example "BoB S_Holland"
 
 The scripts of the other genres have their genre as a prefix in brackets.
